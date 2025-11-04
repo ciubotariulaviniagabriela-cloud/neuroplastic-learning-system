@@ -1,2 +1,1 @@
-# neuroplastic-learning-system
-Personal data science project exploring how sleep, habits, and emotions influence productivity through neuroplastic feedback loops.
+A personal data science project analyzing how sleep, habits, and mindset influence productivity and emotional balance through neuroplastic feedback loops.
